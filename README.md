@@ -200,7 +200,7 @@ print(x_single_prediction)
 
 ### Confusion Matrix
 
-![output](confusion.jpgatrix)
+![output](confusion.jpg)
 
 ### New Sample Data Prediction
 
