@@ -124,8 +124,6 @@ c8=layers.Dense(10,activation='softmax')
 classifier.add(c8)
 
 
-
-
 classifier.summary()
 
 classifier.compile(loss='categorical_crossentropy',
